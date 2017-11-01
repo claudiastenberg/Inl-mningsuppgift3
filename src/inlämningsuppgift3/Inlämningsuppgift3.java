@@ -31,6 +31,7 @@ public class Inlämningsuppgift3 extends JFrame {
         shuffle.setOpaque(true);
         
         
+        
         shuffle.addActionListener((ActionEvent e) -> { // anonym innerklass
             pusselBricka.Nyttspel();
         }

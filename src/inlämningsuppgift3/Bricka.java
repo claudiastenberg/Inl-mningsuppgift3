@@ -52,6 +52,7 @@ public class Bricka extends JPanel implements ActionListener {
         Nyttspel();
     }
 
+    
     /**
      * Metoden Nytt spel gör att knapparna blandas om vid nytt spel. Detta gör
      * vi med hjälp av Collections:shuffel. Metoden revalidate begär att
